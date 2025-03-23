@@ -13,7 +13,7 @@ jobs:
       - run: echo "enviar imagem para Dockerhub"
   CD:
     runs-on: ubuntu-latest
-     steps:
+    steps:
       - run: echo "obter codigo"
       - run: echo "configurar kubeconfig"
       - run: echo "Executar o apply"
