@@ -20,7 +20,7 @@ jobs:
         with:
           context: ./src
           push: true
-          file: ./src
+          file: ./src/Dockerfile
           tags: walysonsilva/fake-shop:v2
       - run: echo "executar docker build"
       - run: echo "enviar imagem para Dockerhub"
