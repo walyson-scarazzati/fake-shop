@@ -1,5 +1,7 @@
-# Fake Shop
+# Desafio DevOps & Cloud do dia 18 ao 23 de Março de 2025
+[devopspro.com.br ](https://imersao.devopspro.com.br/aulas/) 
 
+# Fake Shop
 
 ## Variável de Ambiente
 DB_HOST	=> Host do banco de dados PostgreSQL.
